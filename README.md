@@ -1,1 +1,1 @@
-The Responsive Web Design Bootcamp by Kevin Powell.
+The Responsive Web Design Bootcamp by Kevin Powell at Scrimba.
